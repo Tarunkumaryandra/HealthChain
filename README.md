@@ -5,11 +5,11 @@
 The aim of this framework is twofold: firstly, to integrate blockchain technology into Electronic Health Records (EHR) systems, ensuring secure storage of electronic records; and secondly, to define granular access rules for users within the proposed framework. Additionally, the framework addresses the scalability challenges inherent in blockchain technology through the utilization of off-chain storage solutions for records. Ultimately, this framework offers EHR systems the advantages of a scalable, secure, and integrated blockchain-based solution.
 
 
-https://drive.google.com/file/d/1yRbBrAsBT5cqiG3GF8dYbXZSN0umU6MQ/view
 
 
+https://github.com/Tarunkumaryandra/HealthChain/assets/117550634/c66392a8-c0fa-42b4-8d9f-1834aae24c28
 
-https://github.com/Tarunkumaryandra/HealthChain/assets/117550634/86029bad-ec21-4b71-a6b3-beb60b2c317e
+
 
 
 
